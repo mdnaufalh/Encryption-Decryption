@@ -109,24 +109,14 @@ class ShiftEncryption implements EncryptionAlgorithm {
 
 public class Main {
 
-    private static int key;
-    private static String message;
-    private static String mode;
-    private static String inputFilePath;
-    private static String outputFilePath;
-    private static String output;
-    private static AlgorithmType algorithmType;
-
-    Main() {
-        key = 0;
-        message = null;
-        mode = "enc";
-        inputFilePath = null;
-        outputFilePath = null;
-        output = null;
-        algorithmType = null;
-    }
-
+    private static int key = 0;
+    private static String message = null;
+    private static String mode = null;
+    private static String inputFilePath = null;
+    private static String outputFilePath = null;
+    private static String output = null;
+    private static AlgorithmType algorithmType = null;
+    
     /*
      * Parse arguments from the terminal
      */
