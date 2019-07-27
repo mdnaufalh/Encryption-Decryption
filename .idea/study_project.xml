@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="StudySettings">
+    <StudyTaskManager>
+      <option name="VERSION" value="16" />
+      <option name="myUserTests">
+        <map />
+      </option>
+      <option name="course">
+        <HyperskillCourse>
+          <option name="authors">
+            <list />
+          </option>
+          <option name="courseMode" value="Study" />
+          <option name="customPresentableName" />
+          <option name="description" value="Privacy is an important matter is the realm of the Internet. When sending a message, you want to be sure that no-one but the addressee with the key can read it. The entirety of the modern Web is encrypted - take https for example! Don’t stay behind: hop on the encryption/decryption train and learn the essential basics while implementing this simple project.&lt;br/&gt;&lt;br/&gt;Learn more at &lt;a href=&quot;https://hyperskill.org&quot;&gt;https://hyperskill.org/projects/46&lt;/a&gt;" />
+          <option name="environment" value="" />
+          <option name="id" value="0" />
+          <option name="index" value="-1" />
+          <option name="language" value="JAVA 11" />
+          <option name="languageCode" value="en" />
+          <option name="name" value="Encryption-Decryption (Java)" />
+          <option name="stages">
+            <list>
+              <HyperskillStage>
+                <option name="id" value="245" />
+                <option name="stepId" value="5387" />
+                <option name="title" value="Encrypted!" />
+              </HyperskillStage>
+              <HyperskillStage>
+                <option name="id" value="246" />
+                <option name="stepId" value="5388" />
+                <option name="title" value="Knowledge is key" />
+              </HyperskillStage>
+              <HyperskillStage>
+                <option name="id" value="247" />
+                <option name="stepId" value="5389" />
+                <option name="title" value="Decrypted!" />
+              </HyperskillStage>
+              <HyperskillStage>
+                <option name="id" value="248" />
+                <option name="stepId" value="5390" />
+                <option name="title" value="I command you" />
+              </HyperskillStage>
+              <HyperskillStage>
+                <option name="id" value="249" />
+                <option name="stepId" value="5391" />
+                <option name="title" value="X-files" />
+              </HyperskillStage>
+              <HyperskillStage>
+                <option name="id" value="250" />
+                <option name="stepId" value="5392" />
+                <option name="title" value="Choices, choices" />
+              </HyperskillStage>
+            </list>
+          </option>
+          <option name="taskToTopics">
+            <map>
+              <entry key="0">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="259" />
+                      <option name="theoryId" value="3805" />
+                      <option name="title" value="IDE" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="15" />
+                      <option name="theoryId" value="3500" />
+                      <option name="title" value="Introduction to Java" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="147" />
+                      <option name="theoryId" value="3522" />
+                      <option name="title" value="Basic literals" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="148" />
+                      <option name="theoryId" value="3521" />
+                      <option name="title" value="The first program" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="193" />
+                      <option name="theoryId" value="3749" />
+                      <option name="title" value="Printing data" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="260" />
+                      <option name="theoryId" value="3801" />
+                      <option name="title" value="IntelliJ IDEA" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+              <entry key="1">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="14" />
+                      <option name="theoryId" value="3518" />
+                      <option name="title" value="Types and variables" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="309" />
+                      <option name="theoryId" value="5035" />
+                      <option name="title" value="Primitive and reference types" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="4" />
+                      <option name="theoryId" value="3511" />
+                      <option name="title" value="Array" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="30" />
+                      <option name="theoryId" value="3520" />
+                      <option name="title" value="Comments" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="112" />
+                      <option name="theoryId" value="3513" />
+                      <option name="title" value="Naming variables" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="146" />
+                      <option name="theoryId" value="3519" />
+                      <option name="title" value="Arithmetic operations" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="191" />
+                      <option name="theoryId" value="3739" />
+                      <option name="title" value="Write, compile and run" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="149" />
+                      <option name="theoryId" value="3499" />
+                      <option name="title" value="JVM, JRE and JDK" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="192" />
+                      <option name="theoryId" value="3746" />
+                      <option name="title" value="Running programs on your computer" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="113" />
+                      <option name="theoryId" value="3603" />
+                      <option name="title" value="Scanning the input" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="27" />
+                      <option name="theoryId" value="3565" />
+                      <option name="title" value="Integer types and operations" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="87" />
+                      <option name="theoryId" value="3516" />
+                      <option name="title" value="Boolean and logical operations" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+              <entry key="2">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="161" />
+                      <option name="theoryId" value="3532" />
+                      <option name="title" value="Sizes and ranges" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="32" />
+                      <option name="theoryId" value="3510" />
+                      <option name="title" value="Type casting" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="94" />
+                      <option name="theoryId" value="3590" />
+                      <option name="title" value="Defining methods" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+              <entry key="3">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="1" />
+                      <option name="theoryId" value="3489" />
+                      <option name="title" value="The main method" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="99" />
+                      <option name="theoryId" value="3594" />
+                      <option name="title" value="Arrays as parameters" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="111" />
+                      <option name="theoryId" value="3566" />
+                      <option name="title" value="Command-line arguments" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+              <entry key="4">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="117" />
+                      <option name="theoryId" value="3614" />
+                      <option name="title" value="Introduction to OOP" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="60" />
+                      <option name="theoryId" value="3497" />
+                      <option name="title" value="What is an exception" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="59" />
+                      <option name="theoryId" value="3570" />
+                      <option name="title" value="Hierarchy of exceptions" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="65" />
+                      <option name="theoryId" value="3552" />
+                      <option name="title" value="Exception handling" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="172" />
+                      <option name="theoryId" value="3635" />
+                      <option name="title" value="Files" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="173" />
+                      <option name="theoryId" value="3636" />
+                      <option name="title" value="Reading files" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="177" />
+                      <option name="theoryId" value="3652" />
+                      <option name="title" value="Writing files" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="163" />
+                      <option name="theoryId" value="3536" />
+                      <option name="title" value="Errors in programs" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="115" />
+                      <option name="theoryId" value="3618" />
+                      <option name="title" value="Defining classes" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="7" />
+                      <option name="theoryId" value="3621" />
+                      <option name="title" value="Package" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="17" />
+                      <option name="theoryId" value="3535" />
+                      <option name="title" value="Constructor" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+              <entry key="5">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="157" />
+                      <option name="theoryId" value="3611" />
+                      <option name="title" value="The concept of patterns" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="159" />
+                      <option name="theoryId" value="3556" />
+                      <option name="title" value="Strategy" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="160" />
+                      <option name="theoryId" value="3577" />
+                      <option name="title" value="Encapsulating object creation" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="324" />
+                      <option name="theoryId" value="5761" />
+                      <option name="title" value="Factory method" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="326" />
+                      <option name="theoryId" value="5155" />
+                      <option name="title" value="Template method" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="37" />
+                      <option name="theoryId" value="3525" />
+                      <option name="title" value="Overloading" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="38" />
+                      <option name="theoryId" value="3534" />
+                      <option name="title" value="Static members" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="120" />
+                      <option name="theoryId" value="3538" />
+                      <option name="title" value="Multiple constructors" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="127" />
+                      <option name="theoryId" value="3588" />
+                      <option name="title" value="The keyword super" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="5" />
+                      <option name="theoryId" value="3572" />
+                      <option name="title" value="Hiding and overriding" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="128" />
+                      <option name="theoryId" value="3585" />
+                      <option name="title" value="Referencing subclass objects" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="2" />
+                      <option name="theoryId" value="3587" />
+                      <option name="title" value="Polymorphism" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+            </map>
+          </option>
+          <option name="updateDate" value="0" />
+          <option name="hyperskillProject">
+            <HyperskillProject>
+              <option name="description" value="Privacy is an important matter is the realm of the Internet. When sending a message, you want to be sure that no-one but the addressee with the key can read it. The entirety of the modern Web is encrypted - take https for example! Don’t stay behind: hop on the encryption/decryption train and learn the essential basics while implementing this simple project." />
+              <option name="id" value="46" />
+              <option name="ideFiles" value="https://stepik.org/media/attachments/lesson/209884/additional_files.json" />
+              <option name="language" value="java" />
+              <option name="templateBased" value="false" />
+              <option name="title" value="Encryption-Decryption (Java)" />
+              <option name="useIde" value="true" />
+            </HyperskillProject>
+          </option>
+          <option name="items">
+            <list>
+              <FrameworkLesson>
+                <option name="currentTaskIndex" value="5" />
+                <option name="customPresentableName" />
+                <option name="id" value="0" />
+                <option name="index" value="1" />
+                <option name="name" value="Encryption-Decryption (Java)" />
+                <option name="updateDate" value="0" />
+                <option name="unitId" value="0" />
+                <option name="items">
+                  <list>
+                    <EduTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2 style=&quot;text-align: center;&quot;&gt;Motivation&lt;/h2&gt;&#10;&#10;&lt;p&gt;Today, encryption and decryption algorithms are used everywhere on the Internet to protect our data. This is especially important for sites that handle sensitive data, such as e-commerce sites that accept online card payments and login areas that require users to enter their credentials. To ensure data security, there are complex encryption algorithms behind the scenes.&lt;/p&gt;&#10;&#10;&lt;p&gt;In this project, you will learn how to encrypt and decrypt messages and texts using simple algorithms. We should note that such algorithms are not suitable for industrial use because they can easily be cracked, but these algorithms demonstrate some general ideas about encryption.&lt;/p&gt;&#10;&#10;&lt;h2 style=&quot;text-align: center;&quot;&gt;Description&lt;/h2&gt;&#10;&#10;&lt;p&gt;For the first stage, you need to manually encrypt the message &lt;strong&gt;&quot;we found a treasure!&quot;&lt;/strong&gt; and print the ciphertext (in lower case).&lt;/p&gt;&#10;&#10;&lt;p&gt;To encrypt the message, replace each letter with the letter that is in the corresponding position from the end of the English alphabet (a→z, b→y, c→x, ... x→c, y →b, z→a). Do not replace spaces or the exclamation mark.&lt;/p&gt;&#10;&#10;&lt;p&gt;Use the given template to your program to print the ciphertext instead of the original message.&lt;/p&gt;&#10;&#10;&lt;p&gt;The output should look like &lt;code&gt;## ##### # ########!&lt;/code&gt; where &lt;strong&gt;#&lt;/strong&gt; is a lower-case English letter.&lt;/p&gt;&#10;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/46/stages/245/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5387" />
+                      <option name="index" value="1" />
+                      <option name="name" value="Encrypted!" />
+                      <option name="record" value="4" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="src/encryptdecrypt/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/encryptdecrypt/Main.java" />
+                                <option name="text" value="package encryptdecrypt;&#10;&#10;public class Main {&#10;    public static void main(String[] args) {&#10;        System.out.println(&quot;Hello World!&quot;);&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/EncryptDecryptTest.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/EncryptDecryptTest.java" />
+                                <option name="text" value="import encryptdecrypt.Main;&#10;import org.hyperskill.hstest.v5.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v5.testcase.PredefinedIOTestCase;&#10;&#10;import java.util.List;&#10;&#10;public class EncryptDecryptTest extends BaseStageTest {&#10;    public EncryptDecryptTest() throws Exception {&#10;        super(Main.class);&#10;    }&#10;&#10;    @Override&#10;    public List&lt;PredefinedIOTestCase&gt; generate() {&#10;        return List.of(&#10;            new PredefinedIOTestCase(&quot;&quot;, &quot;dv ulfmw z givzhfiv!&quot;));&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1561937784000" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2 style=&quot;text-align: center;&quot;&gt;Description&lt;/h2&gt;&#10;&#10;&lt;p&gt;Write a program that reads an English message and an integer number (&lt;strong&gt;key&lt;/strong&gt;) from the standard input and shifts each letter by the specified number according to its order in the alphabet. If you reach the end of the alphabet, start back at the beginning (&lt;strong&gt;a&lt;/strong&gt; follows &lt;strong&gt;z&lt;/strong&gt;).&lt;/p&gt;&#10;&#10;&lt;p&gt;The English alphabet is below:&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;abcdefghijklmnopqrstuvwxyz&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt;The program should not modify non-letter characters.&lt;/p&gt;&#10;&#10;&lt;p&gt;&lt;strong&gt;Note, &lt;/strong&gt;key is just a special parameter that controls the behavior of our encryption algorithm. See the picture below for more information.&lt;/p&gt;&#10;&#10;&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img alt=&quot;&quot; height=&quot;354&quot; src=&quot;https://ucarecdn.com/60ec14dd-7cef-4895-b147-8115e83c533e/&quot; width=&quot;662&quot;&gt;&lt;/p&gt;&#10;&#10;&lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;The encryption process&lt;/strong&gt;&lt;/p&gt;&#10;&#10;&lt;h2&gt;Input example&lt;/h2&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;welcome to hyperskill&#10;5&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;h2&gt;Output example&lt;/h2&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;bjqhtrj yt mdujwxpnqq&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt; &lt;/p&gt;&#10;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/46/stages/246/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5388" />
+                      <option name="index" value="2" />
+                      <option name="name" value="Knowledge is key" />
+                      <option name="record" value="3" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="test/EncryptDecryptTest.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/EncryptDecryptTest.java" />
+                                <option name="text" value="import encryptdecrypt.Main;&#10;import org.hyperskill.hstest.v5.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v5.testcase.PredefinedIOTestCase;&#10;&#10;import java.util.List;&#10;&#10;public class EncryptDecryptTest extends BaseStageTest {&#10;    public EncryptDecryptTest() throws Exception {&#10;        super(Main.class);&#10;    }&#10;&#10;    @Override&#10;    public List&lt;PredefinedIOTestCase&gt; generate() {&#10;        return List.of(&#10;            new PredefinedIOTestCase(&#10;                &quot;welcome to hyperskill\n&quot; +&#10;                &quot;5&quot;,&#10;                &quot;bjqhtrj yt mdujwxpnqq&quot;),&#10;&#10;            new PredefinedIOTestCase(&#10;                &quot;treasure\n&quot; +&#10;                    &quot;10&quot;,&#10;                &quot;dbokcebo&quot;),&#10;&#10;            new PredefinedIOTestCase(&#10;                &quot;qdvdqvrxqwxrxwpvrxspvxiqgdiqarairpbiqqid\n&quot; +&#10;                    &quot;12&quot;,&#10;                &quot;cphpchdjcijdjibhdjebhjucspucmdmudbnuccup&quot;),&#10;&#10;            new PredefinedIOTestCase(&#10;                &quot;y\n&quot; +&#10;                    &quot;10&quot;,&#10;                &quot;i&quot;));&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/encryptdecrypt/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/encryptdecrypt/Main.java" />
+                                <option name="text" value="package encryptdecrypt;&#10;&#10;public class Main {&#10;    public static void main(String[] args) {&#10;        String message = &quot;we found a treasure!&quot;;&#10;        for(char ch: message.toCharArray()) {&#10;            if(Character.isAlphabetic(ch)) {&#10;                System.out.print((char)(25 - (ch - 'a') + 'a'));&#10;            } else {&#10;                System.out.print(ch);&#10;            }&#10;        }&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1561937785000" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2 style=&quot;text-align: center;&quot;&gt;Description&lt;/h2&gt;&#10;&#10;&lt;p&gt;In this stage, you need to support decryption in your program. The decryption is simply the inverse of encryption, following the same steps but reversing the order in which the keys are applied.&lt;/p&gt;&#10;&#10;&lt;p&gt;Then write a program that reads three lines from the standard input: a target operation (&lt;strong&gt;enc&lt;/strong&gt; - encryption, &lt;strong&gt;dec&lt;/strong&gt; - decryption), a message or a cyphertext, and a key to encrypt/decrypt messages. All non-letter characters must be encrypted as well as regular letters. We recommend you to get an integer representation of each character (according to the Unicode table) to shift it.&lt;/p&gt;&#10;&#10;&lt;p&gt;Decompose your program using methods to make it easy to understand and edit later. One method should encrypt a message and another one should decrypt it according to a key.&lt;/p&gt;&#10;&#10;&lt;h2 style=&quot;text-align: center;&quot;&gt;Encryption input example&lt;/h2&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;enc&#10;Welcome to hyperskill!&#10;5&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;h2 style=&quot;text-align: center;&quot;&gt;Encryption output example&lt;/h2&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;\jqhtrj%yt%m~ujwxpnqq&amp;amp;&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;h2 style=&quot;text-align: center;&quot;&gt;Decryption input example&lt;/h2&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;dec&#10;\jqhtrj%yt%m~ujwxpnqq&amp;amp;&#10;5&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;h2 style=&quot;text-align: center;&quot;&gt;Decryption output example&lt;/h2&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;Welcome to hyperskill!&lt;/code&gt;&lt;/pre&gt;&#10;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/46/stages/247/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5389" />
+                      <option name="index" value="3" />
+                      <option name="name" value="Decrypted!" />
+                      <option name="record" value="1" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="test/EncryptDecryptTest.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/EncryptDecryptTest.java" />
+                                <option name="text" value="import encryptdecrypt.Main;&#10;import org.hyperskill.hstest.v5.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v5.testcase.PredefinedIOTestCase;&#10;&#10;import java.util.List;&#10;&#10;public class EncryptDecryptTest extends BaseStageTest {&#10;    public EncryptDecryptTest() throws Exception {&#10;        super(Main.class);&#10;    }&#10;&#10;    @Override&#10;    public List&lt;PredefinedIOTestCase&gt; generate() {&#10;        return List.of(&#10;            new PredefinedIOTestCase(&#10;                &quot;enc\n&quot; +&#10;                    &quot;Welcome to hyperskill!\n&quot; +&#10;                    &quot;5&quot;,&#10;                &quot;\\jqhtrj%yt%m~ujwxpnqq&amp;&quot;),&#10;            new PredefinedIOTestCase(&#10;                &quot;enc\n&quot; +&#10;                    &quot;Hello\n&quot; +&#10;                    &quot;0&quot;,&#10;                &quot;Hello&quot;),&#10;            new PredefinedIOTestCase(&#10;                &quot;enc\n&quot; +&#10;                    &quot;012345678\n&quot; +&#10;                    &quot;1&quot;,&#10;                &quot;123456789&quot;),&#10;            new PredefinedIOTestCase(&#10;                &quot;dec\n&quot; +&#10;                    &quot;\\jqhtrj%yt%m~ujwxpnqq&amp;\n&quot; +&#10;                    &quot;5&quot;,&#10;                &quot;Welcome to hyperskill!&quot;),&#10;            new PredefinedIOTestCase(&#10;                &quot;dec\n&quot; +&#10;                    &quot;Hello\n&quot; +&#10;                    &quot;0&quot;,&#10;                &quot;Hello&quot;),&#10;            new PredefinedIOTestCase(&#10;                &quot;dec\n&quot; +&#10;                    &quot;222233334444\n&quot; +&#10;                    &quot;1&quot;,&#10;                &quot;111122223333&quot;)&#10;        );&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/encryptdecrypt/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/encryptdecrypt/Main.java" />
+                                <option name="text" value="package encryptdecrypt;&#10;&#10;import java.util.Scanner;&#10;&#10;public class Main {&#10;    public static void main(String[] args) {&#10;        Scanner scanner = new Scanner(System.in);&#10;        String message = scanner.nextLine();&#10;        int key = scanner.nextInt();&#10;        scanner.close();&#10;        for(int i = 0; i &lt; message.length(); ++i) {&#10;            char ch = message.charAt(i);&#10;            if(Character.isAlphabetic(ch)) {&#10;                System.out.print((char)((ch -'a' + key)%26 + 'a'));&#10;            } else {&#10;                System.out.print(ch);&#10;            }&#10;        }&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1561937786000" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2 style=&quot;text-align: center;&quot;&gt;Description&lt;/h2&gt;&#10;&#10;&lt;p&gt;Modify the previous program to work with command-line arguments instead of the standard input. The program must parse three arguments: &lt;strong&gt;-mode&lt;/strong&gt;, &lt;strong&gt;-key&lt;/strong&gt; and &lt;strong&gt;-data&lt;/strong&gt;. The first argument should determine the program’s mode (&lt;strong&gt;enc&lt;/strong&gt; - encryption, &lt;strong&gt;dec&lt;/strong&gt; - decryption). The second argument is an integer key to modify the message, and the third argument is a text or ciphertext within quotes to encrypt or decrypt.&lt;/p&gt;&#10;&#10;&lt;p&gt;If the &lt;strong&gt;-mode&lt;/strong&gt; argument is not specified, the default mode should be encryption. If the &lt;strong&gt;-data&lt;/strong&gt; argument is not specified, the program must wait for it and the &lt;strong&gt;-key&lt;/strong&gt; argument from the standard input.&lt;/p&gt;&#10;&#10;&lt;p&gt;Keep in mind that arguments may be in different order. For example,&lt;strong&gt; -mode enc&lt;/strong&gt; may be at the end, at the end or in the middle of aguments array.&lt;/p&gt;&#10;&#10;&lt;h2 style=&quot;text-align: center;&quot;&gt;Run configuration examples for encryption&lt;/h2&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;java Main -mode enc -key 5 -data &quot;Welcome to hyperskill!&quot;&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;h2 style=&quot;text-align: center;&quot;&gt;Encryption output example&lt;/h2&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;\jqhtrj%yt%m~ujwxpnqq&amp;amp;&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;h2 style=&quot;text-align: center;&quot;&gt;Run configuration examples for decryption&lt;/h2&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;java Main -key 5 -data &quot;\jqhtrj%yt%m~ujwxpnqq&amp;amp;&quot; -mode dec&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;h2 style=&quot;text-align: center;&quot;&gt;Decryption output example&lt;/h2&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;Welcome to hyperskill!&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt; &lt;/p&gt;&#10;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/46/stages/248/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5390" />
+                      <option name="index" value="4" />
+                      <option name="name" value="I command you" />
+                      <option name="record" value="2" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="test/EncryptDecryptTest.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/EncryptDecryptTest.java" />
+                                <option name="text" value="import encryptdecrypt.Main;&#10;import org.hyperskill.hstest.v5.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v5.testcase.CheckResult;&#10;import org.hyperskill.hstest.v5.testcase.TestCase;&#10;&#10;import java.util.List;&#10;&#10;public class EncryptDecryptTest extends BaseStageTest&lt;String&gt; {&#10;    public EncryptDecryptTest() throws Exception {&#10;        super(Main.class);&#10;    }&#10;&#10;    @Override&#10;    public List&lt;TestCase&lt;String&gt;&gt; generate() {&#10;        return List.of(&#10;            new TestCase&lt;String&gt;()&#10;                .addArguments(new String[]{&#10;                    &quot;-mode&quot;, &quot;enc&quot;,&#10;                    &quot;-key&quot;, &quot;5&quot;,&#10;                    &quot;-data&quot;, &quot;Welcome to hyperskill!&quot;&#10;                })&#10;                .setAttach(&quot;\\jqhtrj%yt%m~ujwxpnqq&amp;&quot;),&#10;&#10;            new TestCase&lt;String&gt;()&#10;                .addArguments(new String[]{&#10;                    &quot;-key&quot;, &quot;0&quot;,&#10;                    &quot;-mode&quot;, &quot;enc&quot;,&#10;                    &quot;-data&quot;, &quot;Hello&quot;&#10;                })&#10;                .setAttach(&quot;Hello&quot;),&#10;&#10;            new TestCase&lt;String&gt;()&#10;                .addArguments(new String[]{&#10;                    &quot;-key&quot;, &quot;1&quot;,&#10;                    &quot;-data&quot;, &quot;012345678&quot;,&#10;                    &quot;-mode&quot;, &quot;enc&quot;&#10;                })&#10;                .setAttach(&quot;123456789&quot;),&#10;&#10;            new TestCase&lt;String&gt;()&#10;                .addArguments(new String[]{&#10;                    &quot;-mode&quot;, &quot;dec&quot;,&#10;                    &quot;-data&quot;, &quot;\\jqhtrj%yt%m~ujwxpnqq&amp;&quot;,&#10;                    &quot;-key&quot;, &quot;5&quot;&#10;                })&#10;                .setAttach(&quot;Welcome to hyperskill!&quot;),&#10;&#10;            new TestCase&lt;String&gt;()&#10;                .addArguments(new String[]{&#10;                    &quot;-mode&quot;, &quot;dec&quot;,&#10;                    &quot;-key&quot;, &quot;0&quot;,&#10;                    &quot;-data&quot;, &quot;Hi&quot;&#10;                })&#10;                .setAttach(&quot;Hi&quot;),&#10;&#10;            new TestCase&lt;String&gt;()&#10;                .addArguments(new String[]{&#10;                    &quot;-mode&quot;, &quot;dec&quot;,&#10;                    &quot;-key&quot;, &quot;1&quot;,&#10;                    &quot;-data&quot;, &quot;222233334444&quot;&#10;                })&#10;                .setAttach(&quot;111122223333&quot;)&#10;        );&#10;    }&#10;&#10;    @Override&#10;    public CheckResult check(String reply, String clue) {&#10;        return new CheckResult(reply.trim().equals(clue.trim()));&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/encryptdecrypt/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/encryptdecrypt/Main.java" />
+                                <option name="text" value="package encryptdecrypt;&#10;&#10;import java.util.Scanner;&#10;&#10;public class Main {&#10;    public static void main(String[] args) {&#10;        Scanner scanner = new Scanner(System.in);&#10;        String operation = scanner.nextLine();&#10;        String message = scanner.nextLine();&#10;        int key = scanner.nextInt();&#10;        scanner.close();&#10;        if(&quot;enc&quot;.equals(operation)) {&#10;            System.out.println(encrypt(message, key));&#10;        } else {&#10;            System.out.println(decrypt(message, key));&#10;        }&#10;&#10;    }&#10;&#10;    public static String encrypt(String message, int key) {&#10;        StringBuilder ans = new StringBuilder();&#10;        for(int i = 0; i &lt; message.length(); ++i) {&#10;            char ch = message.charAt(i);&#10;            ans.append((char)(ch + key));&#10;        }&#10;        return ans.toString();&#10;    }&#10;&#10;    public static String decrypt(String message, int key) {&#10;        StringBuilder ans = new StringBuilder();&#10;        for(int i = 0; i &lt; message.length(); ++i) {&#10;            char ch = message.charAt(i);&#10;            ans.append((char)(ch - key));&#10;        }&#10;        return ans.toString();&#10;    }&#10;&#10;&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1561937786000" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2 style=&quot;text-align: center;&quot;&gt;Description&lt;/h2&gt;&#10;&#10;&lt;p&gt;At this stage, you need to add the ability to read and write original and cipher data to files. The program must parse two additional arguments &lt;strong&gt;-in&lt;/strong&gt; and &lt;strong&gt;-out&lt;/strong&gt; to specify the full name of a file to read data and to write the result. Arguments &lt;strong&gt;-mode&lt;/strong&gt;, &lt;strong&gt;-key&lt;/strong&gt;, and &lt;strong&gt;-data&lt;/strong&gt; should still work as before.&lt;/p&gt;&#10;&#10;&lt;p&gt;If the &lt;strong&gt;-in&lt;/strong&gt; or &lt;strong&gt;-data&lt;/strong&gt; argument is not specified, the program should wait for data from the standard input. If there is no &lt;strong&gt;-out&lt;/strong&gt; argument, the program must print data to the standard output.&lt;/p&gt;&#10;&#10;&lt;p&gt;If there is a non-standard situation (an input file does not exist or an argument doesn’t have a value), the program should not fail. Instead, it must display a clear message about the problem and stop successfully.&lt;/p&gt;&#10;&#10;&lt;h2 style=&quot;text-align: center;&quot;&gt;Run configuration examples&lt;/h2&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;java Main -mode enc -in road_to_treasure.txt -out protected.txt -key 5&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt;This command must create a file called &lt;strong&gt;protected.txt&lt;/strong&gt; and write ciphertext to it.&lt;/p&gt;&#10;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/46/stages/249/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5391" />
+                      <option name="index" value="5" />
+                      <option name="name" value="X-files" />
+                      <option name="record" value="5" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="test/EncryptDecryptTest.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/EncryptDecryptTest.java" />
+                                <option name="text" value="import encryptdecrypt.Main;&#10;import org.hyperskill.hstest.v5.common.Utils;&#10;import org.hyperskill.hstest.v5.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v5.testcase.CheckResult;&#10;import org.hyperskill.hstest.v5.testcase.TestCase;&#10;&#10;import java.util.List;&#10;&#10;public class EncryptDecryptTest extends BaseStageTest&lt;String&gt; {&#10;    public EncryptDecryptTest() throws Exception {&#10;        super(Main.class);&#10;    }&#10;&#10;    @Override&#10;    public List&lt;TestCase&lt;String&gt;&gt; generate() {&#10;        return List.of(&#10;            new TestCase&lt;String&gt;()&#10;                .addArguments(new String[]{&#10;                    &quot;-mode&quot;, &quot;enc&quot;,&#10;                    &quot;-key&quot;, &quot;5&quot;,&#10;                    &quot;-in&quot;, &quot;in.txt&quot;,&#10;                    &quot;-out&quot;, &quot;output.txt&quot;&#10;                })&#10;                .setAttach(&quot;\\jqhtrj%yt%m~ujwxpnqq&amp;&quot;)&#10;                .addFile(&quot;in.txt&quot;, &quot;Welcome to hyperskill!&quot;),&#10;&#10;            new TestCase&lt;String&gt;()&#10;                .addArguments(new String[]{&#10;                    &quot;-key&quot;, &quot;0&quot;,&#10;                    &quot;-mode&quot;, &quot;enc&quot;,&#10;                    &quot;-in&quot;, &quot;input.txt&quot;,&#10;                    &quot;-out&quot;, &quot;output.txt&quot;&#10;                })&#10;                .setAttach(&quot;Hello&quot;)&#10;                .addFile(&quot;input.txt&quot;, &quot;Hello&quot;),&#10;&#10;            new TestCase&lt;String&gt;()&#10;                .addArguments(new String[]{&#10;                    &quot;-key&quot;, &quot;1&quot;,&#10;                    &quot;-in&quot;, &quot;i.txt&quot;,&#10;                    &quot;-out&quot;, &quot;output.txt&quot;,&#10;                    &quot;-mode&quot;, &quot;enc&quot;&#10;                })&#10;                .setAttach(&quot;123456789&quot;)&#10;                .addFile(&quot;i.txt&quot;, &quot;012345678&quot;),&#10;&#10;            new TestCase&lt;String&gt;()&#10;                .addArguments(new String[]{&#10;                    &quot;-mode&quot;, &quot;dec&quot;,&#10;                    &quot;-in&quot;, &quot;input.txt&quot;,&#10;                    &quot;-out&quot;, &quot;output.txt&quot;,&#10;                    &quot;-key&quot;, &quot;5&quot;&#10;                })&#10;                .setAttach(&quot;Welcome to hyperskill!&quot;)&#10;                .addFile(&quot;input.txt&quot;, &quot;\\jqhtrj%yt%m~ujwxpnqq&amp;&quot;),&#10;&#10;            new TestCase&lt;String&gt;()&#10;                .addArguments(new String[]{&#10;                    &quot;-mode&quot;, &quot;dec&quot;,&#10;                    &quot;-key&quot;, &quot;0&quot;,&#10;                    &quot;-in&quot;, &quot;input.txt&quot;,&#10;                    &quot;-out&quot;, &quot;output.txt&quot;&#10;                })&#10;                .setAttach(&quot;Hi&quot;)&#10;                .addFile(&quot;input.txt&quot;, &quot;Hi&quot;),&#10;&#10;            new TestCase&lt;String&gt;()&#10;                .addArguments(new String[]{&#10;                    &quot;-mode&quot;, &quot;dec&quot;,&#10;                    &quot;-key&quot;, &quot;1&quot;,&#10;                    &quot;-in&quot;, &quot;input.txt&quot;,&#10;                    &quot;-out&quot;, &quot;output.txt&quot;&#10;                })&#10;                .setAttach(&quot;111122223333&quot;)&#10;                .addFile(&quot;input.txt&quot;, &quot;222233334444&quot;)&#10;        );&#10;    }&#10;&#10;    @Override&#10;    public CheckResult check(String reply, String clue) {&#10;        String output = Utils.readFile(&quot;output.txt&quot;);&#10;        return new CheckResult(output.trim().equals(clue.trim()));&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/encryptdecrypt/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/encryptdecrypt/Main.java" />
+                                <option name="text" value="package encryptdecrypt;&#10;&#10;import java.util.Scanner;&#10;&#10;public class Main {&#10;    public static void main(String[] args) {&#10;        int key = 0;&#10;        String message = null;&#10;        String operation = &quot;inc&quot;;&#10;        for(int i = 0; i &lt; args.length; i += 2) {&#10;            if(&quot;-mode&quot;.equals(args[i])) {&#10;                operation = args[i + 1];&#10;            } else if(&quot;-key&quot;.equals(args[i])) {&#10;                key = Integer.parseInt(args[i + 1]);&#10;            } else {&#10;                message = args[i + 1];&#10;            }&#10;        }&#10;        if(message == null || message.isEmpty()) {&#10;            Scanner scanner = new Scanner(System.in);&#10;            String word = scanner.next();&#10;            if(&quot;-mode&quot;.equals(word)) {&#10;                message = scanner.next();&#10;                scanner.next();&#10;                key = scanner.nextInt();&#10;            } else {&#10;                key = scanner.nextInt();&#10;                scanner.next();&#10;                message = scanner.next();&#10;            }&#10;        }&#10;        if(&quot;enc&quot;.equals(operation)) {&#10;            System.out.println(encrypt(message, key));&#10;        } else {&#10;            System.out.println(decrypt(message, key));&#10;        }&#10;    }&#10;&#10;    public static String encrypt(String message, int key) {&#10;        StringBuilder ans = new StringBuilder();&#10;        for(char ch: message.toCharArray()) {&#10;            ans.append((char)(ch + key));&#10;        }&#10;        return  ans.toString();&#10;    }&#10;&#10;    public static String decrypt(String message, int key) {&#10;        StringBuilder ans = new StringBuilder();&#10;        for(char ch: message.toCharArray()) {&#10;            ans.append((char)(ch - key));&#10;        }&#10;        return ans.toString();&#10;    }&#10;&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="output.txt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="output.txt" />
+                                <option name="text" value="" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/encryptdecrypt/Main.class">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/encryptdecrypt/Main.class" />
+                                <option name="text" value="" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/encryptdecrypt/in.txt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/encryptdecrypt/in.txt" />
+                                <option name="text" value="" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/encryptdecrypt/output.txt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/encryptdecrypt/output.txt" />
+                                <option name="text" value="" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1561937787000" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2 style=&quot;text-align: center;&quot;&gt;Description&lt;/h2&gt;&#10;&#10;&lt;p&gt;Extend your program by adding different algorithms to encode/decode data. The first one would be shifting algorithm (it shifts each letter by the specified number according to its order in the alphabet in circle). The second one would be based on Unicode table, like in the previous stage.&lt;/p&gt;&#10;&#10;&lt;p&gt;When starting the program, the necessary algorithm should be specified by an argument (&lt;strong&gt;-alg&lt;/strong&gt;). The first algorithm should be named &lt;strong&gt;shift&lt;/strong&gt;, the second one should be named &lt;strong&gt;unicode&lt;/strong&gt;.&lt;/p&gt;&#10;&#10;&lt;p&gt;To complete this stage, we recommend that you create a set of classes and interfaces for encryption and decryption algorithms.&lt;/p&gt;&#10;&#10;&lt;h2 style=&quot;text-align: center;&quot;&gt;Run configuration examples&lt;/h2&gt;&#10;&#10;&lt;pre&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;java Main -key 10 -mode enc -in road_to_treasure.txt -alg unicode -out protected.txt&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt;This command must create a file called &lt;strong&gt;protected.txt&lt;/strong&gt; and write ciphertext to it.&lt;/p&gt;&#10;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/46/stages/250/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5392" />
+                      <option name="index" value="6" />
+                      <option name="name" value="Choices, choices" />
+                      <option name="record" value="-1" />
+                      <option name="status" value="Solved" />
+                      <option name="files">
+                        <map>
+                          <entry key="test/EncryptDecryptTest.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/EncryptDecryptTest.java" />
+                                <option name="text" value="import encryptdecrypt.Main;&#10;import org.hyperskill.hstest.v5.common.Utils;&#10;import org.hyperskill.hstest.v5.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v5.testcase.CheckResult;&#10;import org.hyperskill.hstest.v5.testcase.TestCase;&#10;&#10;import java.util.List;&#10;&#10;public class EncryptDecryptTest extends BaseStageTest&lt;String&gt; {&#10;    public EncryptDecryptTest() throws Exception {&#10;        super(Main.class);&#10;    }&#10;&#10;    @Override&#10;    public List&lt;TestCase&lt;String&gt;&gt; generate() {&#10;        return List.of(&#10;            new TestCase&lt;String&gt;()&#10;                .addArguments(new String[]{&#10;                    &quot;-alg&quot;, &quot;unicode&quot;,&#10;                    &quot;-mode&quot;, &quot;enc&quot;,&#10;                    &quot;-key&quot;, &quot;5&quot;,&#10;                    &quot;-in&quot;, &quot;in.txt&quot;,&#10;                    &quot;-out&quot;, &quot;output.txt&quot;&#10;                })&#10;                .setAttach(&quot;\\jqhtrj%yt%m~ujwxpnqq&amp;&quot;)&#10;                .addFile(&quot;in.txt&quot;, &quot;Welcome to hyperskill!&quot;),&#10;&#10;            new TestCase&lt;String&gt;()&#10;                .addArguments(new String[]{&#10;                    &quot;-key&quot;, &quot;0&quot;,&#10;                    &quot;-mode&quot;, &quot;enc&quot;,&#10;                    &quot;-alg&quot;, &quot;unicode&quot;,&#10;                    &quot;-in&quot;, &quot;input.txt&quot;,&#10;                    &quot;-out&quot;, &quot;output.txt&quot;&#10;                })&#10;                .setAttach(&quot;Hello&quot;)&#10;                .addFile(&quot;input.txt&quot;, &quot;Hello&quot;),&#10;&#10;            new TestCase&lt;String&gt;()&#10;                .addArguments(new String[]{&#10;                    &quot;-key&quot;, &quot;1&quot;,&#10;                    &quot;-in&quot;, &quot;i.txt&quot;,&#10;                    &quot;-alg&quot;, &quot;unicode&quot;,&#10;                    &quot;-out&quot;, &quot;output.txt&quot;,&#10;                    &quot;-mode&quot;, &quot;enc&quot;&#10;                })&#10;                .setAttach(&quot;123456789&quot;)&#10;                .addFile(&quot;i.txt&quot;, &quot;012345678&quot;),&#10;&#10;            new TestCase&lt;String&gt;()&#10;                .addArguments(new String[]{&#10;                    &quot;-mode&quot;, &quot;dec&quot;,&#10;                    &quot;-in&quot;, &quot;input.txt&quot;,&#10;                    &quot;-out&quot;, &quot;output.txt&quot;,&#10;                    &quot;-alg&quot;, &quot;unicode&quot;,&#10;                    &quot;-key&quot;, &quot;5&quot;&#10;                })&#10;                .setAttach(&quot;Welcome to hyperskill!&quot;)&#10;                .addFile(&quot;input.txt&quot;, &quot;\\jqhtrj%yt%m~ujwxpnqq&amp;&quot;),&#10;&#10;            new TestCase&lt;String&gt;()&#10;                .addArguments(new String[]{&#10;                    &quot;-mode&quot;, &quot;dec&quot;,&#10;                    &quot;-alg&quot;, &quot;unicode&quot;,&#10;                    &quot;-key&quot;, &quot;0&quot;,&#10;                    &quot;-in&quot;, &quot;input.txt&quot;,&#10;                    &quot;-out&quot;, &quot;output.txt&quot;&#10;                })&#10;                .setAttach(&quot;Hi&quot;)&#10;                .addFile(&quot;input.txt&quot;, &quot;Hi&quot;),&#10;&#10;            new TestCase&lt;String&gt;()&#10;                .addArguments(new String[]{&#10;                    &quot;-mode&quot;, &quot;dec&quot;,&#10;                    &quot;-key&quot;, &quot;1&quot;,&#10;                    &quot;-in&quot;, &quot;input.txt&quot;,&#10;                    &quot;-alg&quot;, &quot;unicode&quot;,&#10;                    &quot;-out&quot;, &quot;output.txt&quot;&#10;                })&#10;                .setAttach(&quot;111122223333&quot;)&#10;                .addFile(&quot;input.txt&quot;, &quot;222233334444&quot;),&#10;&#10;            new TestCase&lt;String&gt;()&#10;                .addArguments(new String[]{&#10;                    &quot;-mode&quot;, &quot;enc&quot;,&#10;                    &quot;-key&quot;, &quot;5&quot;,&#10;                    &quot;-in&quot;, &quot;input.txt&quot;,&#10;                    &quot;-alg&quot;, &quot;shift&quot;,&#10;                    &quot;-out&quot;, &quot;output.txt&quot;&#10;                })&#10;                .setAttach(&quot;bjqhtrj yt mdujwxpnqq&quot;)&#10;                .addFile(&quot;input.txt&quot;, &quot;welcome to hyperskill&quot;),&#10;&#10;            new TestCase&lt;String&gt;()&#10;                .addArguments(new String[]{&#10;                    &quot;-mode&quot;, &quot;dec&quot;,&#10;                    &quot;-key&quot;, &quot;10&quot;,&#10;                    &quot;-in&quot;, &quot;input.txt&quot;,&#10;                    &quot;-alg&quot;, &quot;shift&quot;,&#10;                    &quot;-out&quot;, &quot;output.txt&quot;&#10;                })&#10;                .setAttach(&quot;treasure&quot;)&#10;                .addFile(&quot;input.txt&quot;, &quot;dbokcebo&quot;),&#10;&#10;            new TestCase&lt;String&gt;()&#10;                .addArguments(new String[]{&#10;                    &quot;-mode&quot;, &quot;enc&quot;,&#10;                    &quot;-key&quot;, &quot;12&quot;,&#10;                    &quot;-in&quot;, &quot;input.txt&quot;,&#10;                    &quot;-alg&quot;, &quot;shift&quot;,&#10;                    &quot;-out&quot;, &quot;output.txt&quot;&#10;                })&#10;                .setAttach(&quot;cphpchdjcijdjibhdjebhjucspucmdmudbnuccup&quot;)&#10;                .addFile(&quot;input.txt&quot;, &quot;qdvdqvrxqwxrxwpvrxspvxiqgdiqarairpbiqqid&quot;),&#10;&#10;            new TestCase&lt;String&gt;()&#10;                .addArguments(new String[]{&#10;                    &quot;-mode&quot;, &quot;dec&quot;,&#10;                    &quot;-key&quot;, &quot;10&quot;,&#10;                    &quot;-in&quot;, &quot;input.txt&quot;,&#10;                    &quot;-alg&quot;, &quot;shift&quot;,&#10;                    &quot;-out&quot;, &quot;output.txt&quot;&#10;                })&#10;                .setAttach(&quot;y&quot;)&#10;                .addFile(&quot;input.txt&quot;, &quot;i&quot;),&#10;&#10;            new TestCase&lt;String&gt;()&#10;                .addArguments(new String[]{&#10;                    &quot;-mode&quot;, &quot;enc&quot;,&#10;                    &quot;-key&quot;, &quot;10&quot;,&#10;                    &quot;-in&quot;, &quot;input.txt&quot;,&#10;                    &quot;-alg&quot;, &quot;shift&quot;,&#10;                    &quot;-out&quot;, &quot;output.txt&quot;&#10;                })&#10;                .setAttach(&quot;i&quot;)&#10;                .addFile(&quot;input.txt&quot;, &quot;y&quot;)&#10;        );&#10;    }&#10;&#10;    @Override&#10;    public CheckResult check(String reply, String clue) {&#10;        String output = Utils.readFile(&quot;output.txt&quot;);&#10;        return new CheckResult(output.trim().equals(clue.trim()));&#10;    }&#10;&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/encryptdecrypt/output.txt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/encryptdecrypt/output.txt" />
+                                <option name="text" value="1234" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="output.txt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="output.txt" />
+                                <option name="text" value="111122223333" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/encryptdecrypt/in.txt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/encryptdecrypt/in.txt" />
+                                <option name="text" value="0123" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/encryptdecrypt/Main.class">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/encryptdecrypt/Main.class" />
+                                <option name="text" value="&#10;  // IntelliJ API Decompiler stub source generated from a class file&#10;  // Implementation of methods is not available&#10;&#10;public class Main {&#10;    public Main() { /* compiled code */ }&#10;&#10;    public static void main(java.lang.String[] strings) throws java.lang.Exception { /* compiled code */ }&#10;&#10;    public static java.lang.String encrypt(java.lang.String s, int i) { /* compiled code */ }&#10;&#10;    public static java.lang.String decrypt(java.lang.String s, int i) { /* compiled code */ }&#10;}" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="unicode">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="unicode" />
+                                <option name="text" value="" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/encryptdecrypt/AlgorithmType.class">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/encryptdecrypt/AlgorithmType.class" />
+                                <option name="text" value="" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/encryptdecrypt/AlgorithmFactory.class">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/encryptdecrypt/AlgorithmFactory.class" />
+                                <option name="text" value="" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/encryptdecrypt/EncryptionAlgorithm.class">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/encryptdecrypt/EncryptionAlgorithm.class" />
+                                <option name="text" value="" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/encryptdecrypt/UnicodeEncryption.class">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/encryptdecrypt/UnicodeEncryption.class" />
+                                <option name="text" value="" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/encryptdecrypt/ShiftEncryption.class">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/encryptdecrypt/ShiftEncryption.class" />
+                                <option name="text" value="" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1561937788000" />
+                    </EduTask>
+                  </list>
+                </option>
+              </FrameworkLesson>
+            </list>
+          </option>
+        </HyperskillCourse>
+      </option>
+    </StudyTaskManager>
+  </component>
+</project>
